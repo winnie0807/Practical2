@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="myName">Choong Siew Moon</string>
+    <string name="bio">Hi, my name is Winnie.
+\n\nI love gaming.
+\n\nSpending my free time in gaming, its just my type of day.
+\nFortunately is that I have plenty of time to spare everyday.
+\n\nI like watching movies too. K-Drama, Anime, TVB, J-Drama - not so much.
+\nAnd sometimes I become so addicted I spend my whole day.
+\nEven though I love gaming and is addicted, but I know the limits.
+\n\nI only play games when I'm free and done with the essentials.
+\n\nI know how to balance out my life.
+\nGaming is so fun! I am very happy that I found gaming in my life.\n\n</string>
+    <string name="image_star">image_star</string>
+    <string name="done">Done</string>
+</resources>
